@@ -56,6 +56,7 @@
  ### 🔗Contact Me
  
 <a href="https://t.me/doaa_899" target="_blank"><img src="https://img.shields.io/badge/-doaa%20seyam-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
+[![Telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/doaa_899)
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-ayman-a45a361a4/)
