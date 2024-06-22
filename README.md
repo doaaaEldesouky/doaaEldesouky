@@ -52,12 +52,6 @@
 
 
 
-
-## 💻 Current projects
-- viajin [WIP] - Side project
-- budget [WIP] - Side project
-- todo [WIP] - Side project
-
 ## 📚 Learning
 - c# 
 - database 
@@ -65,5 +59,11 @@
 
 
  
+
+
+## 💻 Current projects
+- viajin [WIP] - Side project
+- budget [WIP] - Side project
+- todo [WIP] - Side project
 
 
