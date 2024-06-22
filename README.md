@@ -33,6 +33,19 @@
 
 
 
+## 💻 Current projects
+- viajin [WIP] - Side project
+- budget [WIP] - Side project
+- todo [WIP] - Side project
+
+## 📚 Learning
+- React.js with my wife 👩‍❤️‍👨
+- Hono.js with RPC
+- Remix
+- TypeScript
+- Cloudflare workers
+
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
@@ -47,23 +60,5 @@
 
 
 
-
-
-
-
-
-## 📚 Learning
-- c# 
-- database 
-- flutter course for begginer
-
-
- 
-
-
-## 💻 Current projects
-- viajin [WIP] - Side project
-- budget [WIP] - Side project
-- todo [WIP] - Side project
 
 
