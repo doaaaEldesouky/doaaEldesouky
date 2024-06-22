@@ -1,16 +1,5 @@
 
-
-
-
-<br>
-<a href="https://komarev.com/ghpvc/?username=doaa seyam&style=for-the-badge">
-</br>
-</a>
-<p>
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-</p>
-<div align="center" width="50">
-</div>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
   
 
