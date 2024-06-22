@@ -37,7 +37,22 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=doaa seyam&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=ahmedghaly&style=for-the-badge">
-</a>
+<h1 align="center">Hi 👋, I'm Johnny</h1>
+<h3 align="center">A software engineer from Colombia</h3>
+
+
+
+## 💻 Current projects
+- viajin [WIP] - Side project
+- budget [WIP] - Side project
+- todo [WIP] - Side project
+
+## 📚 Learning
+- c# 
+- database 
+- flutter course for begginer
+
+
+ 
 
 
