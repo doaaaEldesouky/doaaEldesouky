@@ -23,11 +23,13 @@
 
 
 ### 🛠 &nbsp;Tech Stack![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp)&nbsp;
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql)
+
 
 
 
