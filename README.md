@@ -55,10 +55,11 @@
 
  ### 🔗Contact Me
  
-<a href="https://t.me/doaa_899" target="_blank"><img src="https://img.shields.io/badge/-doaa%20seyam-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/doaa_899" target="_blank"><img src="https://img.shields.io/badge/-doaa%20seyam-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-ayman-a45a361a4/)
+</a>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:doaaseyam0@gmail.com)](mailto:amroayman14@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=201026209122)
 
