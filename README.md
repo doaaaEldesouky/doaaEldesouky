@@ -14,7 +14,7 @@
 - 🏢 I'm a Software Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with c#, c++, and flutter, or anything related to mobile development.
-- ⚡ Fun Fact: I'm intersted in computer science .
+- ⚡ Fun Fact: I'm intersted in computer science & cats.
 
 
 ### Connect with Me :
@@ -36,7 +36,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![c++](https://img.shields.io/badge/-c++%20-05122A?style=flat&logo=c++)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
 
 
 
