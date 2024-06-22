@@ -1,7 +1,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+
 <br>
 <a href="https://komarev.com/ghpvc/?username=doaa seyam&style=for-the-badge">
 </br>
@@ -46,8 +46,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=red)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=pink)
 
-
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 ## 💻 Current projects
 - viajin [WIP] - Side project
 - budget [WIP] - Side project
