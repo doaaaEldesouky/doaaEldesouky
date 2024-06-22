@@ -40,12 +40,12 @@
 </a>
 
 
-<p>
+
 ## 💻 Current projects
 - viajin [WIP] - Side project
 - budget [WIP] - Side project
 - todo [WIP] - Side project
-</p>
+
 ## 📚 Learning
 - c# 
 - database 
