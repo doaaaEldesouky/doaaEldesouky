@@ -19,7 +19,7 @@
 
 ### Connect with Me :
 
-<a href="https://t.me/doaa_899" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Ghaly-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/doaa_899" target="_blank"><img src="https://img.shields.io/badge/-doaa%20seyam-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack
