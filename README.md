@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Amr, Welcome To My Github Profile ♥</h1>
+<h1 align="center">Hello! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is doaa, Welcome To My Github Profile ♥</h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=flutter%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
@@ -18,9 +18,6 @@
 - ⚡ Fun Fact: I'm intersted in computer science & cats.
 
 
-### Connect with Me :
-
-<a href="https://t.me/doaa_899" target="_blank"><img src="https://img.shields.io/badge/-doaa%20seyam-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 ### 🛠 &nbsp;Tech Stack!;
@@ -59,7 +56,10 @@
 
 
 
+
  ### 🔗Contact Me
+<a href="https://t.me/doaa_899" target="_blank"><img src="https://img.shields.io/badge/-doaa%20seyam-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
 
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/amrayman2000/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amr-ayman-a45a361a4/)
