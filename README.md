@@ -13,7 +13,6 @@
 
 - 🏢 I'm a Software Engineer .
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with c#, c++, and flutter, or anything related to mobile development.
 - ⚡ Fun Fact: I'm intersted in computer science & cats.
 
 
@@ -28,10 +27,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=red)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=pink)
 
-## 💻 Current projects
-- viajin [WIP] - Side project
-- budget [WIP] - Side project
-- todo [WIP] - Side project
+
 
 ## 📚 Learning
 - flutter course for beginner
